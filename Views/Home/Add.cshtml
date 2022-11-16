@@ -1,0 +1,39 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-4">Yeni Kayıt Ekle</h2>
+<div class="row" ng-controller="addController">
+    <div class="col-md-12">
+
+        <div class="form-group">
+            <label>Adı</label>
+            <input class="form-control" ng-model="user.name" required />
+        </div>
+        <div class="form-group">
+            <label>Soyadı:</label>
+            <input class="form-control" ng-model="user.surname" required />
+        </div>
+        <div class="form-group">
+            <label>Kullanıcı Adı:</label>
+            <input class="form-control" ng-model="user.username" required />
+        </div>
+        <div class="form-group">
+            <label>Şifre:</label>
+            <input class="form-control" ng-model="user.password" required />
+        </div>
+        <div class="form-group">
+            <label>Kullanıcı Fotoğrafı:</label>
+            <input class="form-control" type="file" id="flpUpload" required />
+        </div>
+        <div class="form-group">
+            <a class="btn btn-success" style="margin-top:10px; margin-bottom:10px" ng-click="UserAdd()">Ekle</a>
+        </div>
+
+    </div>
+
+</div>
+
+@section Scripts{
+    <script src="~/page/useradd.js"></script>
+}
