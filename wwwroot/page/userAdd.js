@@ -18,7 +18,6 @@ app.controller("addController", function ($scope, $http) {
 
     $scope.UserAdd = function () {
 
-
         $scope.user.file = file;
         $scope.user.fileName = fileName;;
         $http({
