@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "R096FQJHTKK3scVyg7kA8I4zP7ZTlHnHlJqBi0MMPhQ=",
+  "Hash": "8GRAtbFtWHcUJoilouMj2wHwnWBeGaxXcMGKXKPDf6U=",
   "Source": "PersonnelApp.UI",
   "BasePath": "_content/PersonnelApp.UI",
   "Mode": "Default",
@@ -253,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\page\\userAdd.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\page\\userEdit.js",
+      "SourceId": "PersonnelApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.UI",
+      "RelativePath": "page/userEdit.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\page\\userEdit.js"
     }
   ]
 }

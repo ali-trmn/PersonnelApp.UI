@@ -1,0 +1,42 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 class="mt-4">Kayıt Düzenle</h2>
+<div class="row" ng-controller="addController">
+    <div class="col-md-8">
+
+        <div class="form-group">
+            <label>Adı</label>
+            <input class="form-control" ng-model="user.name"  />
+        </div>
+        <div class="form-group">
+            <label>Soyadı:</label>
+            <input class="form-control" ng-model="user.surname"  />
+        </div>
+        <div class="form-group">
+            <label>Kullanıcı Adı:</label>
+            <input class="form-control" ng-model="user.username"  />
+        </div>
+        <div class="form-group">
+            <label>Şifre:</label>
+            <input class="form-control" ng-model="user.password"  />
+        </div>
+        <div class="form-group">
+            <label>Kullanıcı Fotoğrafı:</label>
+            <input class="form-control" type="file" id="flpUpload" ng-model="user.fileName" />
+        </div>
+        <div class="form-group">
+            <a class="btn btn-success" style="margin-top:10px; margin-bottom:10px" ng-click="UserEdit()">Değişiklikleri Kaydet</a>
+        </div>
+
+    </div>
+    <div class="col-md-4">
+        <img src="https://localhost:7077/{{user.fileName}}" style="max-height:320px" class="rounded float-right" >
+    </div>
+
+</div>
+
+@section Scripts{
+    <script src="~/page/useredit.js"></script>
+}
