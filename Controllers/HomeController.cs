@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace PersonnelApp.UI.Controllers
 {
-    
+    [AllowAnonymous]
     public class HomeController : Controller
     {
         public IActionResult Index()

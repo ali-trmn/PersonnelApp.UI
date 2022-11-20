@@ -34,7 +34,7 @@ app.controller("addController", function ($scope, $http) {
 
         $http({
             method: "PUT",
-            url: "http://localhost:5184/api/Personnel/Update?personnelId=5" + GetUrlParameter("Id"),
+            url: "http://localhost:5184/api/Personnel/Update?personnelId=" + GetUrlParameter("Id"),
             data: $scope.user
         }).then(function (response) {
             alert("Kullanıcı başarıla güncellendi.")

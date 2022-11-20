@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OLMnX+QYbGdZm1kPesrV5ZeLAjpf9lGqkfaDno8U1EY=",
+  "Hash": "/btDGufTWj0ClvbXEEFKpji6/G59NFdQ+lzGq8CorBU=",
   "Source": "PersonnelApp.UI",
   "BasePath": "_content/PersonnelApp.UI",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\page\\layout.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\login.js",
+      "SourceId": "PersonnelApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.UI",
+      "RelativePath": "page/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\page\\login.js"
     },
     {
       "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\userAdd.js",

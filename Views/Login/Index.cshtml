@@ -4,7 +4,7 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
 
-<div class="wrapper fadeInDown">
+<div class="wrapper fadeInDown" ng-controller="LoginController">
     <div id="formContent">
         <!-- Tabs Titles -->
         <!-- Icon -->
@@ -14,9 +14,9 @@
 
         <!-- Login Form -->
         <form method="post">
-            <input type="text" id="login" class="fadeIn second" name="login" placeholder="login">
-            <input type="text" id="password" class="fadeIn third" name="login" placeholder="password">
-            <input type="submit" class="fadeIn fourth" value="Log In">
+            <input type="text" id="login" ng-model="login.username" class="fadeIn second" name="login" placeholder="login">
+            <input type="text" id="password" ng-model="login.password" class="fadeIn third" name="login" placeholder="password">
+            <a class="btn btn-primary" ng-click="Login()">Giriş Yap</a>
         </form>
 
         <!-- Remind Passowrd -->
@@ -26,3 +26,6 @@
 
     </div>
 </div>
+@section Scripts{
+    <script src="~/page/login.js"></script>
+}

@@ -12,14 +12,5 @@ namespace PersonnelApp.UI.Controllers
             return View();
         }
 
-
-
-        //[HttpPost]
-        //[AllowAnonymous]
-        //public IActionResult Index(Admin a)
-        //{
-        //    HttpContext.Session.SetString("username", "testlogin");
-        //    return RedirectToAction("Index", "Home");
-        //}
     }
 }
