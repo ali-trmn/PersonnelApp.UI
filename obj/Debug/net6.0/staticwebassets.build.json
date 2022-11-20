@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8GRAtbFtWHcUJoilouMj2wHwnWBeGaxXcMGKXKPDf6U=",
+  "Hash": "OLMnX+QYbGdZm1kPesrV5ZeLAjpf9lGqkfaDno8U1EY=",
   "Source": "PersonnelApp.UI",
   "BasePath": "_content/PersonnelApp.UI",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "PersonnelApp.UI\\wwwroot",
       "Source": "PersonnelApp.UI",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\blog.css",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\blog.css",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/blog.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\blog.css"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\blog.rtl.css",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\blog.rtl.css",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/blog.rtl.css",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\blog.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\brand\\bootstrap-logo.svg",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\brand\\bootstrap-logo.svg",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/brand/bootstrap-logo.svg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand\\bootstrap-logo.svg"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\brand\\bootstrap-logo-white.svg",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\brand\\bootstrap-logo-white.svg",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/brand/bootstrap-logo-white.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\brand\\bootstrap-logo-white.svg"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.min.css",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -153,10 +153,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\css\\Login.css",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.UI",
+      "RelativePath": "assets/dist/css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\dist\\css\\Login.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "PersonnelApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -170,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "assets/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -187,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\favicon.ico",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -204,10 +221,27 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\page\\home.js",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\login.png",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.UI",
+      "RelativePath": "login.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.png"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\home.js",
+      "SourceId": "PersonnelApp.UI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "page/home.js",
       "AssetKind": "All",
@@ -221,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\page\\home.js"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\page\\layout.js",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\layout.js",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "page/layout.js",
       "AssetKind": "All",
@@ -238,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\page\\layout.js"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\page\\userAdd.js",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\userAdd.js",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "page/userAdd.js",
       "AssetKind": "All",
@@ -255,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\page\\userAdd.js"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\page\\userEdit.js",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\page\\userEdit.js",
       "SourceId": "PersonnelApp.UI",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.UI",
       "RelativePath": "page/userEdit.js",
       "AssetKind": "All",

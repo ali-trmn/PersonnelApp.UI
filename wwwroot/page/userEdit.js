@@ -19,7 +19,7 @@ app.controller("addController", function ($scope, $http) {
     $scope.GetUser = function () {
         $http({
             method: "GET",
-            url: "https://localhost:7077/api/User/Get?userId=" + GetUrlParameter("Id")
+            url: "http://localhost:5184/api/Personnel/Get?personnelId=" + GetUrlParameter("Id")
         }).then(function (response) {
             $scope.user = response.data;
         })
@@ -34,7 +34,7 @@ app.controller("addController", function ($scope, $http) {
 
         $http({
             method: "PUT",
-            url: "https://localhost:7077/api/User/Update?userId=" + GetUrlParameter("Id"),
+            url: "http://localhost:5184/api/Personnel/Update?personnelId=5" + GetUrlParameter("Id"),
             data: $scope.user
         }).then(function (response) {
             alert("Kullanıcı başarıla güncellendi.")

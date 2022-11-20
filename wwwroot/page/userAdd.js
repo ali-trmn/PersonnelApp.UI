@@ -19,10 +19,10 @@ app.controller("addController", function ($scope, $http) {
     $scope.UserAdd = function () {
 
         $scope.user.file = file;
-        $scope.user.fileName = fileName;;
+        $scope.user.fileName = fileName;
         $http({
             method: "POST",
-            url: "https://localhost:7077/api/User/Add",
+            url: "http://localhost:5184/api/Personnel/Add",
             data: $scope.user
         }).then(function (response) {
             alert("Kullanıcı Başarıyla Eklenmiştir.")

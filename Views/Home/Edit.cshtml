@@ -19,10 +19,6 @@
             <input class="form-control" ng-model="user.username"  />
         </div>
         <div class="form-group">
-            <label>Şifre:</label>
-            <input class="form-control" ng-model="user.password"  />
-        </div>
-        <div class="form-group">
             <label>Kullanıcı Fotoğrafı:</label>
             <input class="form-control" type="file" id="flpUpload" ng-model="user.fileName" />
         </div>
@@ -32,7 +28,7 @@
 
     </div>
     <div class="col-md-4">
-        <img src="https://localhost:7077/{{user.fileName}}" style="max-height:320px" class="rounded float-right" >
+        <img src="http://localhost:5184/{{user.fileName}}" style="max-height:320px" class="rounded float-right">
     </div>
 
 </div>

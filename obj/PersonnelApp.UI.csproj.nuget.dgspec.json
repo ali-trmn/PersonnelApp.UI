@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\PersonnelApp.UI.csproj": {}
+    "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\PersonnelApp.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\PersonnelApp.UI.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\PersonnelApp.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\PersonnelApp.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\PersonnelApp.UI.csproj",
         "projectName": "PersonnelApp.UI",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\PersonnelApp.UI.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\PersonnelApp.UI.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonnelApp-master\\PersonnelApp.UI\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Yedek\\PersonnelApp.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

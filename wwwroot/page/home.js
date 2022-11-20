@@ -3,7 +3,7 @@
     $scope.GetUserList = function () {
         $http({
             method: "GET",
-            url: "https://localhost:7077/api/User/GetAllNonDelete"
+            url: "http://localhost:5184/api/Personnel/GetAllNonDeleted"
         }).then(function (response) {
             $scope.userList = response.data;
         })
@@ -14,7 +14,7 @@
     $scope.UserDelete = function (id) {
         $http({
             method: "GET",
-            url: "https://localhost:7077/api/User/Delete?userId="+id
+            url: "http://localhost:5184/api/Personnel/Delete?personnelId="+id
         }).then(function (response) {
             alert("Kayıt Silindi.")
         })
