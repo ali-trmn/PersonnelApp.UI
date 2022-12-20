@@ -3,6 +3,14 @@ var fileName;
 
 app.controller("addController", function ($scope, $http) {
 
+
+    $scope.ActiveUser = GetUser();
+
+    if ($scope.ActiveUser.role != "Admin") {
+        window.location.href = "/Home/Index";
+    }
+
+
     $("#flpUpload").change(function () {
         const fileReader = new FileReader();
         fileReader.onload = (event) => {
@@ -22,6 +30,7 @@ app.controller("addController", function ($scope, $http) {
         $scope.user.fileName = fileName;
         $http({
             method: "POST",
+            headers: GetHeader(),
             url: "http://localhost:5184/api/Personnel/Add",
             data: $scope.user
         }).then(function (response) {

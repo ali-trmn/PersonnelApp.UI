@@ -3,6 +3,9 @@ var fileName;
 
 app.controller("addController", function ($scope, $http) {
 
+    $scope.ActiveUser = GetUser();
+
+
     $("#flpUpload").change(function () {
         const fileReader = new FileReader();
         fileReader.onload = (event) => {
@@ -19,9 +22,10 @@ app.controller("addController", function ($scope, $http) {
     $scope.GetUser = function () {
         $http({
             method: "GET",
+            headers: GetHeader(),
             url: "http://localhost:5184/api/Personnel/Get?personnelId=" + GetUrlParameter("Id")
         }).then(function (response) {
-            $scope.user = response.data;
+            $scope.user = response.data.data;
         })
     }
 
@@ -34,6 +38,7 @@ app.controller("addController", function ($scope, $http) {
 
         $http({
             method: "PUT",
+            headers: GetHeader(),
             url: "http://localhost:5184/api/Personnel/Update?personnelId=" + GetUrlParameter("Id"),
             data: $scope.user
         }).then(function (response) {

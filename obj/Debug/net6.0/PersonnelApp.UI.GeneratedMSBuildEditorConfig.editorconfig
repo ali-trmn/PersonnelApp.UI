@@ -5,32 +5,33 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonnelApp.UI
 build_property.RootNamespace = PersonnelApp.UI
-build_property.ProjectDir = C:\Users\Ali Toraman\Desktop\Yedek\PersonnelApp.UI\
+build_property.ProjectDir = C:\Users\alitr\Downloads\PersonnelApp 1\PersonnelApp.UI\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\Ali Toraman\Desktop\Yedek\PersonnelApp.UI
+build_property.MSBuildProjectDirectory = C:\Users\alitr\Downloads\PersonnelApp 1\PersonnelApp.UI
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Ali Toraman/Desktop/Yedek/PersonnelApp.UI/Views/Home/Add.cshtml]
+[C:/Users/alitr/Downloads/PersonnelApp 1/PersonnelApp.UI/Views/Home/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ali Toraman/Desktop/Yedek/PersonnelApp.UI/Views/Home/Edit.cshtml]
+[C:/Users/alitr/Downloads/PersonnelApp 1/PersonnelApp.UI/Views/Home/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ali Toraman/Desktop/Yedek/PersonnelApp.UI/Views/Home/Index.cshtml]
+[C:/Users/alitr/Downloads/PersonnelApp 1/PersonnelApp.UI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ali Toraman/Desktop/Yedek/PersonnelApp.UI/Views/Login/Index.cshtml]
+[C:/Users/alitr/Downloads/PersonnelApp 1/PersonnelApp.UI/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Ali Toraman/Desktop/Yedek/PersonnelApp.UI/Views/Shared/_Layout.cshtml]
+[C:/Users/alitr/Downloads/PersonnelApp 1/PersonnelApp.UI/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
